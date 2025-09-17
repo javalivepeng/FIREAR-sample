@@ -1,0 +1,5 @@
+事故原因：
+    1. 直接原因：华阳宾馆二楼4号房间配电箱内线路过载引燃线 insulation 和塑料外壳，造成 initial 火灾。火势 rapid 蔓延的主要原因是墙体使用了聚氨酯 foam insulation 材料，燃烧后产生大量 toxic smoke，且房间门未及时关闭，导致 smoke 扩散并加剧火势蔓延。此外，房间内堆放了大量易燃的包装纸箱和纺织品，加速了燃烧速度并最终导致 flashover。
+    2. 间接原因：
+        - 华阳宾馆 safety management 责任不落实，存在 electrical wiring 未及时维护、消防设施 inspection 不到位、员工 fire safety training 不足等问题；火灾发生时，宾馆未及时启动 emergency plan，也未有效组织人员 evacuation。
+        - 当地 fire safety supervision 部门对华阳宾馆的 fire safety inspections 流于形式，未发现并纠正存在的 electrical wiring 隐患和 fire safety management 漏洞；相关部门在 previous inspections 中也未有效督促宾馆落实 fire safety regulations。

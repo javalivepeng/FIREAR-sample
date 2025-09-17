@@ -1,0 +1,6 @@
+事故原因：
+    1. 直接原因：
+        - 李某在进行电焊作业时，未 properly 清理周围易燃物，焊渣引燃 nearby 的纸箱和塑料泡沫，导致火灾发生。
+        - 作业现场缺乏有效的 fire extinguishing equipment，延误了 initial fire suppression。
+    2. 认定情况：《火灾事故认定书》认定起火原因系 welding sparks 引燃 combustible materials，如 cardboard boxes 和 plastic foam，引发火灾。
+    3. 尸体检验情况：经法医对死者李某进行尸表 examination，死者 conforms to the characteristics of death by burning，未检测出酒精或 drugs。综合鉴定意见为死者李某符合生前烧死。
