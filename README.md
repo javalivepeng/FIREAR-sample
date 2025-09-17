@@ -6,7 +6,7 @@ This repository contains the datasets used in the paper "FAR-AM: A hybrid attent
 
 Our research is based on one primary dataset collected by us and two public benchmark datasets.
 
-### FIREAR
+### 1. FIREAR
 
 This is the core dataset for our study, consisting of **1,700** manually collected Chinese fire accident reports. All data is located in the `FIREAR/` directory of this repository.
 
